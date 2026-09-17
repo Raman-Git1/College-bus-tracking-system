@@ -1,13 +1,15 @@
 # College Bus Tracker
 
-A real-time campus transportation platform built for students, drivers, and administrators to monitor bus movement, improve commute reliability, and streamline communication across the campus.
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-2ea44f" alt="Status" />
+  <img src="https://img.shields.io/badge/Type-Campus%20Mobility-blue" alt="Type" />
   <img src="https://img.shields.io/badge/Stack-HTML%20%2F%20CSS%20%2F%20JS-orange" alt="Frontend Stack" />
   <img src="https://img.shields.io/badge/Maps-Google%20Maps-4285F4" alt="Google Maps" />
   <img src="https://img.shields.io/badge/Data-Google%20Sheets-34A853" alt="Google Sheets" />
   <img src="https://img.shields.io/badge/Responsive-Mobile%20Friendly-6C63FF" alt="Responsive" />
 </p>
+
+A real-time campus transportation platform designed to improve student commute visibility, simplify driver tracking, and give administrators a unified control layer for fleet coordination.
 
 ## Overview
 
@@ -15,12 +17,68 @@ This project solves a practical problem for campus life: students often wait wit
 
 The solution is a lightweight web application that combines a student-facing tracker, driver dashboard, and admin control panel into one cohesive system.
 
+## Product Showcase
+
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="./studen_login_page.png" alt="Student Login" width="100%" />
+        <br /><strong>1. Student Login</strong>
+      </td>
+      <td width="50%" align="center">
+        <img src="./driver_login_page.png" alt="Driver Login" width="100%" />
+        <br /><strong>2. Driver Login</strong>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="./admin_login_page.png" alt="Admin Login" width="100%" />
+        <br /><strong>3. Admin Login</strong>
+      </td>
+      <td width="50%" align="center">
+        <img src="./bus_information.png" alt="Bus Information" width="100%" />
+        <br /><strong>4. Bus Information</strong>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="./direction_to_bus.png" alt="Directions to Bus" width="100%" />
+        <br /><strong>5. Direction to Bus</strong>
+      </td>
+      <td width="50%" align="center">
+        <img src="./live_tracking.png" alt="Live Tracking" width="100%" />
+        <br /><strong>6. Live Tracking</strong>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="./driver_panel.png" alt="Driver Panel" width="100%" />
+        <br /><strong>7. Driver Panel</strong>
+      </td>
+      <td width="50%" align="center">
+        <img src="./admin_dashboard.png" alt="Admin Dashboard" width="100%" />
+        <br /><strong>8. Admin Dashboard</strong>
+      </td>
+    </tr>
+  </table>
+</p>
+
 ## Why This Project Matters
 
-- Reduces uncertainty for students during daily commute
-- Improves operational visibility for campus transport management
-- Uses low-cost, easy-to-deploy web technologies
-- Demonstrates product thinking, interface design, and real-time data workflows
+- Reduces commute uncertainty for students through live bus visibility
+- Improves operational transparency for campus transport management
+- Uses lightweight, cost-effective technologies for fast deployment
+- Demonstrates product thinking, UI/UX design, and real-time data workflows
+- Shows how a practical business problem can be solved with a clean full-stack web experience
+
+## Key Highlights
+
+- Real-time tracking across multiple user roles
+- Responsive interface for mobile and desktop users
+- Spreadsheet-backed data layer for rapid prototyping and deployment
+- Role-based access for students, drivers, and administrators
+- Clear workflow from GPS capture to live location visibility
 
 ## Core Features
 
