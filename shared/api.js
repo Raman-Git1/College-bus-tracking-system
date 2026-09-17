@@ -1,6 +1,7 @@
 // shared/api.js - Google Sheets API Helper
-const API_KEY = 'AIzaSyAEgboC033MAgBVuxc9Qu9aRE0RLj-mkVY';
-const SHEET_ID = '1Tm7lhBZzK5xaz_Sr3lVxkmQTzuiagllhlRpDYjpD4XU';
+const CONFIG = window.CONFIG || {};
+const API_KEY = CONFIG.API_KEY || '';
+const SHEET_ID = CONFIG.SHEET_ID || '';
 
 class SheetsAPI {
     static async getSheet(sheetName) {

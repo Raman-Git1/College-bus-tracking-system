@@ -1,7 +1,8 @@
 /* // API Configuration
-const API_KEY = 'AIzaSyAEgboC033MAgBVuxc9Qu9aRE0RLj-mkVY';
-const SHEET_ID = '1Tm7lhBZzK5xaz_Sr3lVxkmQTzuiagllhlRpDYjpD4XU';
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyqYa6nW9C5Bk8hr6D3JC9e99OzGEb0orKhUW3IL57dgC3p45zGLLCNuUu78YTT80j6ug/exec';
+const CONFIG = window.CONFIG || {};
+const API_KEY = CONFIG.API_KEY || '';
+const SHEET_ID = CONFIG.SHEET_ID || '';
+const APPS_SCRIPT_URL = CONFIG.APPS_SCRIPT_URL || '';
 
 // Global Variables
 let currentStudent = null;
