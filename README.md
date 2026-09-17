@@ -17,6 +17,12 @@ This project solves a practical problem for campus life: students often wait wit
 
 The solution is a lightweight web application that combines a student-facing tracker, driver dashboard, and admin control panel into one cohesive system.
 
+## Demo Video
+
+<p align="center">
+  <video src="./tracking_demo.mp4" width="100%" controls playsinline></video>
+</p>
+
 ## Product Showcase
 
 <p align="center">
