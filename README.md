@@ -20,11 +20,11 @@ The solution is a lightweight web application that combines a student-facing tra
 ## Demo Video
 
 <p align="center">
-  <a href="./tracking_demo.mp4">
-    <img src="./live_tracking.png" alt="Watch the College Bus Tracker demo video" width="100%" />
-  </a>
+  <video src="https://github.com/Raman-Git1/College-bus-tracking-system/raw/refs/heads/main/tracking_demo.mp4" width="100%" controls playsinline>
+    <a href="https://github.com/Raman-Git1/College-bus-tracking-system/raw/refs/heads/main/tracking_demo.mp4">Watch the demo video</a>
+  </video>
   <br />
-  <a href="./tracking_demo.mp4">Watch the demo video</a>
+  <a href="https://github.com/Raman-Git1/College-bus-tracking-system/raw/refs/heads/main/tracking_demo.mp4">Open the demo video</a>
 </p>
 
 ## Product Showcase
