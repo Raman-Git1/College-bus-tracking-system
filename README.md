@@ -20,7 +20,11 @@ The solution is a lightweight web application that combines a student-facing tra
 ## Demo Video
 
 <p align="center">
-  <video src="./tracking_demo.mp4" width="100%" controls playsinline></video>
+  <a href="./tracking_demo.mp4">
+    <img src="./live_tracking.png" alt="Watch the College Bus Tracker demo video" width="100%" />
+  </a>
+  <br />
+  <a href="./tracking_demo.mp4">Watch the demo video</a>
 </p>
 
 ## Product Showcase
